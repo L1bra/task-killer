@@ -1,0 +1,4 @@
+Main
+-   Block tasks by PID
+-   Block websites (somehow)
+-   Make it easier to use (API? lmao)

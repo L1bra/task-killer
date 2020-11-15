@@ -1,0 +1,5 @@
+Battle.net.exe
+Telegram.exe
+Discord.exe
+chrome.exe
+steam.exe
